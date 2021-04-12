@@ -1,5 +1,5 @@
 {
-  "name": "true-random",
+  "name": "true-random-promise",
   "version": "2.0.0",
   "description": "True randomness (http://qrng.anu.edu.au/)",
   "main": "index.js",
