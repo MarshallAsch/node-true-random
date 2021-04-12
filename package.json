@@ -1,12 +1,10 @@
 {
   "name": "true-random-promise",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "True randomness (http://qrng.anu.edu.au/)",
   "main": "index.js",
   "files": [
     "index.js",
-    "es6/index.js",
-    "test/test_random.js",
     "README.md",
     "LICENSE"
   ],
@@ -37,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yannicked/node-true-random.git"
+    "url": "https://github.com/marshallasch/node-true-random.git"
   },
   "bugs": {
-    "url": "https://github.com/Yannicked/node-true-random/issues"
+    "url": "https://github.com/marshallasch/node-true-random/issues"
   },
   "devDependencies": {
     "eslint": "^7.24.0",

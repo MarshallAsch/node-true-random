@@ -31,3 +31,5 @@ node_modules
 
 #friggin' windows
 Thumbs.db
+
+*.tgz
